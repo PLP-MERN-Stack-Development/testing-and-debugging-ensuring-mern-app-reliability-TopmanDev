@@ -2,7 +2,7 @@
 
 A full-featured real-time chat application built with React, Node.js, Express, and Socket.io. This application demonstrates bidirectional communication, multiple chat rooms, file sharing, message reactions, read receipts, and more.
 
-## 🚀 Features
+## 🚀 Features 
 
 ### Core Features
 - ✅ Real-time messaging with Socket.io
